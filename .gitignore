@@ -1,0 +1,10 @@
+__pycache__/
+*.pkl
+*.csv
+*.json
+*.yml
+*.yaml
+.env
+azureml/
+*/__pycache__/
+secrets/
